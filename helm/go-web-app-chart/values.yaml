@@ -8,7 +8,7 @@ image:
   repository: aqueell/gitops-eks
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "13712576981"
+  tag: "13712589262"
 
 ingress:
   enabled: false
